@@ -1,4 +1,4 @@
-// variable
+// variable practice
 var myName = "Iza";
 alert(myName);
 
