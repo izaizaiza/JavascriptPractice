@@ -1,5 +1,5 @@
-// variable practice
-var myName = "Iza";
+//variable practice
+const myName = "Iza";
 alert(myName);
 
 function test(){
