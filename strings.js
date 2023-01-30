@@ -1,3 +1,5 @@
+//strings lesson
+
 // length of strings
 /*Suppose the max amount of tweet is 100 characters. Code an 
 alert that alerts user how much is remaining after they typed 
