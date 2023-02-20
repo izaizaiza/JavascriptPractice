@@ -56,3 +56,14 @@ function FizzBuzz2(startNum, endNum){
 
 FizzBuzz2(0,100);
 
+
+let namesList = ["Angela","Ben","Jen","Micky","Clo"];
+function whosPaying(names){
+    var numOfPeople = names.length;
+
+    //since Math.random is 0-0.999
+    var randomIndex = Math.floor(Math.random()*numOfPeople);
+    return "The person paying is " + names[randomIndex];
+}
+
+alert(whosPaying(namesList));
